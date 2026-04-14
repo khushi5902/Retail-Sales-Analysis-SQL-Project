@@ -1,9 +1,5 @@
 # Retail Sales Analysis — SQL Project
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-![Level](https://img.shields.io/badge/Level-Beginner--Intermediate-orange?style=flat-square)
-
 ##  Project Overview
 
 A complete end-to-end SQL analysis of retail sales data — covering database design, data cleaning, exploratory data analysis (EDA), and business-driven querying. Built to demonstrate core data analyst skills using **MySQL**.
