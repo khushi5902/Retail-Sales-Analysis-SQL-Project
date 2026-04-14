@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Analysis — SQL Project
+# Retail Sales Analysis — SQL Project
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
