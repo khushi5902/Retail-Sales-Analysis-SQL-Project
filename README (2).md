@@ -21,19 +21,7 @@ A complete end-to-end SQL analysis of retail sales data — covering database de
 
 ---
 
-##  Repository Structure
-
-```
-Retail-Sales-Analysis-SQL-Project/
-│
-├── retail_sales_analysis.sql        # All SQL queries (setup + analysis)
-├── SQL - Retail Sales Analysis.csv  # Raw dataset
-└── README.md                        # Project documentation
-```
-
----
-
-## 🛠️ Skills & Concepts Used
+##  Skills & Concepts Used
 
 | Concept | Applied In |
 |---|---|
